@@ -24,7 +24,7 @@ const LandingPage = ({ currentUser, foods }) => {
           <Icon name='food' circular/>
             Food List
           <Header.Subheader>
-            At Ayzeys Delivery, we provide you the best in class Home Food...  
+            At Ayzeys Delivery, we provide you the Best in Class Home Food...  
           </Header.Subheader>
         </Header>
         <Table color= {'purple'}>
